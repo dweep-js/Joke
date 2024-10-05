@@ -11,7 +11,7 @@
 
         <!-- Button to fetch a new joke -->
         <button
-            class="bg-blue-500 text-white font-semibold py-2 px-4 rounded shadow-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75 transition"
+            class="bg-rose-200 text-white font-semibold py-2 px-4 rounded shadow-md hover:bg-rose-300 focus:outline-none focus:ring-2 focus:ring-rose-400 focus:ring-opacity-75 transition"
             @click="fetchNewJoke"
         >
             😭 Get a New Joke 😭
